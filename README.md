@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+<H1>Hi🖐️ I'm Chanhee. </h1></br>
 
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+ -->
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Chloe-South)](https://github.com/Chloe-South)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-South)](https://github.com/Chloe-South/github-readme-stats)
 
+- 
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
@@ -14,22 +17,3 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-##### Hi there 👋
-#### Hi there 👋
-### Hi there 👋
-## Hi there 👋
-# Hi there 👋
----
-
-**두껍게**<br>
-
-*기울임*
-
-```
-- 하나
-
-```
-
-:smirk:
-:joy:
-:rage1:
