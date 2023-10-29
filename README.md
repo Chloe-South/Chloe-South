@@ -10,7 +10,6 @@ I have a lot of interest and passion for learning new programming languages.
 <img src="https://img.shields.io/badge/JAVA-F7DF1E?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=flat-square&logo=SPRING BOOT&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chloe-South&layout=compact)](https://github.com/Chloe-South/github-readme-stats)
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Chloe-South)](https://github.com/Chloe-South)
 
 
