@@ -13,9 +13,11 @@ I have a lot of interest and passion for learning new programming languages.
 <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Intellij-000000?style=flat-square&logo=Intellij&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
+</br></br>
 
-
-
+📍Collaboration tools </br></br>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Chloe-South)](https://github.com/Chloe-South)
 
