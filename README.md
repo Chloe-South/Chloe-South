@@ -1,12 +1,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/chloe-bae-153367190/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chloe-bae-153367190/"/></a>
-<img src="https://img.shields.io/badge/bch00127@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
 
 
 <h3>Hello. I am chloe 🙌 </br>
 I have a lot of interest and passion for learning new programming languages.</h3>
+
+<a href="https://www.linkedin.com/in/chloe-bae-153367190/"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chloe-bae-153367190/"/></a>
+<img src="https://img.shields.io/badge/bch00127@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+
 </br></br>
 
 <h2>🌟Skills🌟 </h2>
